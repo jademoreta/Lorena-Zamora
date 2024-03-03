@@ -1,26 +1,28 @@
 ---
-title: "My First post"
-author: "Matt Crump"
+title: " Revelando Belleza"
+author: "Lorena Zamora "
 date: "2022-10-21"
 categories: [goals,general]
 ---
 
-This is an example first post. Whatever you write here will appear inside your post.
+**El Arte de la Asesoría de Imagen y el Valor del Asistente de Peluquería**
 
-It is possible to write lists:
+En el tejido mismo de la sociedad contemporánea, la imagen personal se ha convertido en un lenguaje universal. Es la carta de presentación que ofrecemos al mundo, una expresión tangible de nuestra identidad, gustos y aspiraciones. Como asesora de imagen personal, he tenido el privilegio de adentrarme en este fascinante mundo, donde la apariencia no solo es superficialidad, sino una herramienta poderosa para comunicar quiénes somos y quiénes queremos ser. En este extenso viaje profesional, he descubierto que la colaboración estrecha con un ayudante de peluquería no solo es esencial, sino que enriquece profundamente el resultado final, llevando la experiencia de transformación personal a nuevos niveles de excelencia y satisfacción.
 
-1.  One
-2.  Two
-3.  Three
+![](/images/1A.jpg)
 
-And make headers
+**Enamorados de la Imagen**
 
-## This is a second level heading
+Desde muy joven, me sentí atraída por el poder transformador de la moda, el maquillaje y el peinado. Para mí, cada atuendo, cada sombra de ojos, cada corte de cabello era una oportunidad emocionante de expresión personal. Este amor por la estética y el diseño me llevó a explorar la asesoría de imagen como una profesión en la que podría fusionar mi pasión con mi carrera.
 
-You can include images, and many other kinds of content.
+**La Importancia de la Primera Impresión**
 
-If you are using the visual editor in Rstudio you can drag images onto the editor to insert them into the document. Otherwise, you need to place the image inside of the folder for this post, and then you can insert it to your post directly, like this:
+La primera impresión es, sin lugar a dudas, crucial en cualquier encuentro humano. Ya sea en una entrevista de trabajo, una cita romántica o una presentación en público, la manera en que nos presentamos inicialmente puede influir significativamente en cómo somos percibidos. Aquí es donde entra en juego la asesoría de imagen: como expertos en el arte de la presentación personal, tenemos el poder de ayudar a nuestros clientes a proyectar la imagen que desean transmitir al mundo.
 
-![](thumbnail.jpg)
+**Más que Apariencia: Autoestima y Confianza**
 
-The first image in a blog post will also be used on the listings page.
+Detrás de cada cambio de imagen hay una historia más profunda que la mera búsqueda de un nuevo look. Muchas veces, nuestros clientes llegan a nosotros en momentos de transformación personal: después de una ruptura, un cambio de carrera o simplemente en busca de renovación. Es nuestra responsabilidad no solo mejorar su apariencia externa, sino también elevar su autoestima y confianza interior.
+
+**La Sinfonía de Estilos**
+
+Cada individuo es único, al igual que su estilo personal. Como asesores de imagen, debemos ser versátiles y capaces de adaptarnos a una amplia gama de preferencias estilísticas. Ya sea que nuestros clientes busquen un aspecto clásico y elegante o algo más atrevido y vanguardista, nuestro objetivo es ayudarles a encontrar la armonía entre su personalidad y su apariencia externa.
