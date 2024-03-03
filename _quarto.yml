@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "quartoCourseBlog"
+  title: "LORENA ZAMORA"
   navbar:
     right:
       - about.qmd
