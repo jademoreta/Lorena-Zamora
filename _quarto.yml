@@ -5,8 +5,10 @@ project:
 website:
   title: "LORENA ZAMORA"
   navbar:
-    right:
+    left:
       - about.qmd
+      - index.qmd
+      - CV.qmd
       - icon: github
         href: https://github.com/CrumpLab/quartoCourseBlog
       - icon: twitter

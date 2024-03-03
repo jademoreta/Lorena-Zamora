@@ -4,7 +4,7 @@ image: IMG_0285.JPG
 about:
   template: jolla
   links:
-    - icon: X
+    - icon: Twitter
       text: Twitter
       href: https://twitter.com
     - icon: linkedin
