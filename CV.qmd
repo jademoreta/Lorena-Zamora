@@ -1,8 +1,6 @@
-![]()
-
 # CURRICULUM VITAE
 
-## EXPERIENCIA LABORAL 
+## EXPERIENCIA LABORAL
 
 **Ayudante de peluquería en WALTER PELUQUEROS 15/09/2019 – 21/01/2021 Valencia-España**
 
@@ -24,39 +22,32 @@
 
 -   Diseño de imagen personal
 
-```{=html}
 <!-- -->
-```
+
 -   Estilismo en vestuario y complementos
 
-```{=html}
 <!-- -->
-```
+
 -   Asesoría en cosmética
 
-```{=html}
 <!-- -->
-```
+
 -   Protocolo y organización de eventos
 
-```{=html}
 <!-- -->
-```
+
 -   Habilidades comunicativas
 
-```{=html}
 <!-- -->
-```
+
 -   Asesoría de peluquería
 
-```{=html}
 <!-- -->
-```
+
 -   Usos sociales
 
-```{=html}
 <!-- -->
-```
+
 -   Dirección y comercialización
 
 **GRADO MEDIO EN PELUQUERÍA Y ESTÉTICA CAPILAR**: TEVIAN - ESCUELA DE ESTÉTICA Y PELUQUERÍA. VALENCIA, España. Período: 15/10/205 - 28/06/2018
@@ -71,29 +62,24 @@
 
 -   Peinados y recogidos
 
-```{=html}
 <!-- -->
-```
+
 -   Estética de manos y pies
 
-```{=html}
 <!-- -->
-```
+
 -   Técnicas de corte de cabello
 
-```{=html}
 <!-- -->
-```
+
 -   Cambios de formas permanente del cabello
 
-```{=html}
 <!-- -->
-```
+
 -   Peluquería y estilismo
 
-```{=html}
 <!-- -->
-```
+
 -   Marketing y venta en imagen personal
 
 ## **COMPETENCIAS DIGITALES**
@@ -106,6 +92,6 @@
 
 -   Internet: Google Crome
 
-## **INFORMACIÓN ADICIONAL** 
+## **INFORMACIÓN ADICIONAL**
 
 -   Permiso de conducción: B1
