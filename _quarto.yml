@@ -10,12 +10,12 @@ website:
       - index.qmd
       - CV.qmd
       - icon: github
-        href: https://github.com/CrumpLab/quartoCourseBlog
+        href: https://github.com/
       - icon: twitter
-        href: https://twitter.com/MattCrumpLab
+        href: https://twitter.com/
 format:
   html:
-    theme: minty
+    theme: morp
     css: styles.css
 
 editor: visual
