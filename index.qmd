@@ -1,13 +1,15 @@
 ---
-title: "Bienvenido a mi blog"
+title: "Bienvenidos a mi blog"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  image-placeholder: "images/logo.png"
+  image-placeholder: "images/2A.png"
   categories: true
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: true
 ---
+
+Consejos sobre moda y cuidados capilares

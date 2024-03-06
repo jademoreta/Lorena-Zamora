@@ -1,8 +1,12 @@
-# Currículum vitae
+# Currículum vitae {style="color:blue"}
 
-## EXPERIENCIA LABORAL
+## EXPERIENCIA LABORAL {style="color: black"}
 
-**Ayudante de peluquería en WALTER PELUQUEROS 15/09/2019 – 21/01/2021 Valencia-España**
+**Ayudante de peluquería en WALTER PELUQUEROS**
+
+**15/09/2019 – 21/01/2021**
+
+**Valencia-España**
 
 -   Decoloraciones
 

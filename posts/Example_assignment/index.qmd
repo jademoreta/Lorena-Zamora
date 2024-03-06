@@ -2,7 +2,7 @@
 title: "Técnicas de color para cabellos maltratados"
 author: "Lorena Zamora"
 date: "2022-11-17"
-categories: [goals,general]
+categories: [goals, general]
 ---
 
 **Recuperación efectiva del cabello maltratado**

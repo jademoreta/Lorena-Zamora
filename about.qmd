@@ -1,5 +1,5 @@
 ---
-title: "¡Hola! "
+title: "¡Hola!"
 subtitle: "Mi nombre es Lorena"
 image: IMG_0285.JPG
 about:

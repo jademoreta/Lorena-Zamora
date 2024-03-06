@@ -2,7 +2,7 @@
 title: " Revelando Belleza"
 author: "Lorena Zamora "
 date: "2022-10-21"
-categories: [goals,general]
+categories: [goals, general]
 ---
 
 **El Arte de la Asesoría de Imagen y el Valor del Asistente de Peluquería**

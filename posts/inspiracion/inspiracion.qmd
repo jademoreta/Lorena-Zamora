@@ -2,7 +2,7 @@
 title: "El arte de la imagen"
 author: "Lorena Zamora"
 date: "2022-12-11"
-categories: [goals,general]
+categories: [moda, tratamientos]
 ---
 
 **La pasión de Lorena Zamora**
