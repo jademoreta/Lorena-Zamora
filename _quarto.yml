@@ -3,13 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "LORENA ZAMORA"
+  title: "Lorena Zamora"
   navbar:
     left:
       - text: ¡Hola!
         file: about.qmd
-      - index.qmd
-      - CV.qmd
+      - text: Blog
+        file: index.qmd
+      - text: CV
+        file: CV.qmd
+    right:
       - icon: linkedin
         href: https://www.linkedin.com/
       - icon: instagram
@@ -20,4 +23,3 @@ format:
     css: styles.css
 
 editor: visual
-
