@@ -5,9 +5,9 @@ image: IMG_0285.JPG
 about:
   template: jolla
   links:
-    - icon: Twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: Instagram
+      text: Instagram
+      href: https://instagram.com
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com

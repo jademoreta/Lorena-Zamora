@@ -1,18 +1,19 @@
 project:
   type: website
   output-dir: docs
+  
 
 website:
   title: "Lorena Zamora"
   navbar:
-    left:
+      left:
       - text: ¡Hola!
         file: about.qmd
       - text: Blog
         file: index.qmd
       - text: CV
         file: CV.qmd
-    right:
+      right:
       - icon: linkedin
         href: https://www.linkedin.com/
       - icon: instagram
